@@ -671,7 +671,7 @@ Banner Style
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 170px 0px 120px 0px;
+  padding: 70px 0px 50px 0px;
 }
 
 .main-banner .item-1 {
@@ -953,7 +953,7 @@ Courses Style
 */
 
 .courses {
-  margin-top: 160px;
+  margin-top: 20px;
 }
 
 .event_filter {
@@ -1145,7 +1145,7 @@ Team Style
 
 .team {
   margin-top: 100px;
-    padding-top: 140px;
+    padding-top: 14px;
 }
 
 .team-member {
