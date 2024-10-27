@@ -665,7 +665,6 @@ Header Style
 Banner Style
 --------------------------------------------- 
 */
-
 .main-banner {
   background-image: url(../images/banner-bg.jpg);
   background-position: right bottom;
@@ -691,8 +690,8 @@ Banner Style
   background-position: center center;
   background-size: cover;
   border-radius: 25px;
-  padding: 100px 100px;
-  margin-left: 130px;
+  padding: 20px 20px;
+  margin-left: 10px;
 }
 
 .main-banner .item span.category {
@@ -953,7 +952,7 @@ Courses Style
 */
 
 .courses {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .event_filter {
